@@ -87,7 +87,7 @@ ADD DISCORD USER
 
 #### Person
 
-<img src="screenshots/person.jpg" width="200px" height="300px">
+<img src="screenshots/person.jpg" width="150px" height="300px">
 
 Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/models/monsieur.vox?raw=true
 
