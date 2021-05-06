@@ -14,12 +14,11 @@ Most of these models were shared on the Discord channel: https://discord.com/cha
 
 
 
-
-
-
 ## Outdoor structures
 
 #### Fountain
+
+<img src="screenshots/fountain.jpg" width="300px" height="300px">
 
 Discord user: 331salmon#0331
 
