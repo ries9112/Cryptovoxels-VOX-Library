@@ -99,7 +99,7 @@ Made by Ricky
 
 #### Black off white
 
-<img src="screenshots/picture_frame_black_off_white.jpg" width="200px" height="300px">
+<img src="screenshots/picture_frame_black_off_white.jpg" width="300px" height="300px">
 
 Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/models/picture_frame_black_off_white.vox?raw=true
 
