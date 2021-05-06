@@ -29,6 +29,17 @@ Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/model
 ADD DISCORD USER
 
 
+## Floors
+
+#### Confetti floor
+
+<img src="screenshots/confetti_floor.jpg" width="200px" height="300px">
+
+Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/models/confetti_floor_black.vox?raw=true
+
+ADD DISCORD USER
+
+
 
 ## Outdoor structures
 
