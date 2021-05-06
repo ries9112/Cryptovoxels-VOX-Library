@@ -42,6 +42,26 @@ Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/model
 ADD DISCORD USER
 
 
+## Buildings
+
+#### Building 1
+
+<img src="screenshots/building_1.jpg" width="400px" height="250px">
+
+Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/models/model_1.vox?raw=true
+
+ADD DISCORD USER
+
+#### Doughnut Building
+
+<img src="screenshots/building_doughnut.jpg" width="400px" height="280px">
+
+Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/models/model_2.vox?raw=true
+
+ADD DISCORD USER
+
+
+
 
 ## Outdoor structures
 
@@ -64,4 +84,14 @@ Discord user: 331salmon#0331
 Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/models/pushilin_fountain.vox?raw=true
 
 ADD DISCORD USER
+
+#### Person
+
+<img src="screenshots/person.jpg" width="200px" height="300px">
+
+Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/models/monsieur.vox?raw=true
+
+Made by Ricky
+
+
 
