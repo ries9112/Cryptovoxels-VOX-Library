@@ -27,7 +27,7 @@ Discord user: 331salmon#0331
 
 #### Lord_Zieg
 
-<img src="screenshots/Lord_Zieg.jpg" width="300px" height="300px">
+<img src="screenshots/Lord_Zieg.jpg" width="200px" height="300px">
 
 ADD DISCORD USER
 
