@@ -22,7 +22,7 @@ ADD DISCORD USER
 
 #### Spiral Staircase
 
-<img src="screenshots/spiral_staircases.jpg" width="300px" height="300px">
+<img src="screenshots/spiral_staircases.jpg" width="200px" height="300px">
 
 Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/models/SpiralStaircaseExperiment1.vox?raw=true
 
