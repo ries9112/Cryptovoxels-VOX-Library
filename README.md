@@ -3,10 +3,11 @@ A free public library of .vox models that can be imported inside of Cryptovoxels
 
 Most of these models were shared on the Discord channel: https://discord.com/channels/431671342044020747/573736707984457738
 
+Make sure to click on the button in the top left to navigate this document to find what you are looking for by category:
+<img src="screenshots/outline.jpg" width="250px" height="220px">
 
 
-
-
+<br></br>
 
 
 ## Indoor structures
