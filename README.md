@@ -9,8 +9,15 @@ Most of these models were shared on the Discord channel: https://discord.com/cha
 
 
 
+## Indoor structures
 
+#### Firepit
 
+<img src="screenshots/firepit.jpg" width="300px" height="300px">
+
+Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/models/Firepit2.vox?raw=true
+
+ADD DISCORD USER
 
 
 
@@ -23,6 +30,7 @@ Most of these models were shared on the Discord channel: https://discord.com/cha
 Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/models/EVS0001_Lord_Zieg_Megavoxel_50_50_50.vox?raw=true
 
 Discord user: 331salmon#0331
+
 
 
 ## Characters
