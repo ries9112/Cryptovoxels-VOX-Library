@@ -31,6 +31,36 @@ Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/model
 ADD DISCORD USER
 
 
+## Misc decorations
+
+#### Popcorn Stand
+
+<img src="screenshots/popcorn_stand.jpg" width="300px" height="300px">
+
+Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/models/Popcorn_Stand_126.vox?raw=true
+
+**Discord user: Pointshark#9029**
+
+
+#### Beer* can template
+
+<img src="screenshots/can_template.jpg" width="300px" height="300px">
+
+Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/models/Beer_Can_Full_Open_Blank.vox?raw=true
+
+Pointshark#9029
+
+*doesn't have to be beer
+
+##### Crushed can
+
+<img src="screenshots/can_crushed.jpg" width="300px" height="300px">
+
+Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/models/Beer_Can_Crushed_Blank.vox?raw=true
+
+**Discord user: Pointshark#9029**
+
+
 ## Floors
 
 #### Confetti floor
@@ -61,6 +91,24 @@ Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/model
 ADD DISCORD USER
 
 
+## Structural Components
+
+#### Bridge 
+
+<img src="screenshots/bridge.jpg" width="300px" height="300px">
+
+Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/models/bridge.vox?raw=true
+
+**Discord user: RichardDixon#5557**
+
+
+#### Balcony
+
+<img src="screenshots/balcony.jpg" width="300px" height="300px">
+
+Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/models/balcony.vox?raw=true
+
+**Discord user: RichardDixon#5557**
 
 
 ## Outdoor structures
@@ -71,7 +119,7 @@ ADD DISCORD USER
 
 Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/models/EVS0001_Lord_Zieg_Megavoxel_50_50_50.vox?raw=true
 
-Discord user: 331salmon#0331
+**Discord user: 331salmon#0331**
 
 
 
