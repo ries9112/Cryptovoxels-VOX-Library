@@ -19,7 +19,7 @@ Make sure to click on the button in the top left to navigate this document to fi
 
 Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/models/Firepit2.vox?raw=true
 
-ADD DISCORD USER
+**Discord user: Gsys#0269**
 
 
 #### Spiral Staircase
@@ -28,7 +28,7 @@ ADD DISCORD USER
 
 Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/models/SpiralStaircaseExperiment1.vox?raw=true
 
-ADD DISCORD USER
+**Discord user: plokmijn27#3472**
 
 
 ## Misc decorations
@@ -131,7 +131,7 @@ Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/model
 
 Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/models/pushilin_fountain.vox?raw=true
 
-ADD DISCORD USER
+**Discord user: scalynelson#6003**
 
 #### Person
 
