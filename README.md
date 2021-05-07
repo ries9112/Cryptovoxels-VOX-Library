@@ -80,7 +80,7 @@ ADD DISCORD USER
 
 Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/models/model_1.vox?raw=true
 
-ADD DISCORD USER
+**Discord user: P331salmon#0331**
 
 #### Doughnut Building
 
@@ -88,7 +88,7 @@ ADD DISCORD USER
 
 Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/models/model_2.vox?raw=true
 
-ADD DISCORD USER
+**Discord user: P331salmon#0331**
 
 
 ## Structural Components
