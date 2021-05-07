@@ -108,7 +108,7 @@ ADD DISCORD USER
 
 #### Gold off white with black inlay
 
-<img src="picture_frame_gold_offwhite_black_inlay.jpg" width="300px" height="300px">
+<img src="screenshots/picture_frame_gold_offwhite_black_inlay.jpg" width="300px" height="300px">
 
 Model link: https://github.com/ries9112/Cryptovoxels-VOX-Library/blob/main/models/picture_frame_gold_white.vox?raw=true
 
