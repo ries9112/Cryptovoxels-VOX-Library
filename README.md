@@ -1,4 +1,6 @@
 # Cryptovoxels-VOX-Library
+[![Gitopia](https://img.shields.io/endpoint?style=&url=https://gitopia.org/mirror-badge.json)](https://gitopia.org/#/SerYX59R-T2e0kpEGn6yXNr8o_oDSpoZ72Nqt5pxIsY/Cryptovoxels-Models-Library)
+
 A free public library of .vox models that can be imported inside of Cryptovoxels.
 
 Most of these models were shared on the Discord channel: https://discord.com/channels/431671342044020747/573736707984457738
