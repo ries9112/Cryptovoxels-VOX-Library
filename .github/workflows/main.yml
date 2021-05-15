@@ -1,8 +1,6 @@
 name: Gitopia Mirror
 
-on:
-  push:
-    branches: [master]
+on: [push]
 
 jobs:
   build:
