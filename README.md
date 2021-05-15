@@ -1,5 +1,6 @@
 # Cryptovoxels-VOX-Library
 [![Gitopia](https://img.shields.io/endpoint?style=&url=https://gitopia.org/mirror-badge.json)](https://gitopia.org/#/SerYX59R-T2e0kpEGn6yXNr8o_oDSpoZ72Nqt5pxIsY/Cryptovoxels-Models-Library)
+[![Gitopia Mirror](https://github.com/ries9112/Cryptovoxels-VOX-Library/actions/workflows/main.yml/badge.svg)](https://github.com/ries9112/Cryptovoxels-VOX-Library/actions/workflows/main.yml)
 
 A free public library of .vox models that can be imported inside of Cryptovoxels.
 
